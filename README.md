@@ -8,3 +8,6 @@ https://www.figma.com/design/98tWQ8QzKP1aj7TT8Nel98/Netflix-Page-landing-page?no
 
 
 https://www.figma.com/design/4vmDK3PwSOu0DPUd2e0aT9/Headphone-store?node-id=0-1&t=VeJzzb08ohBkJdMF-1
+
+
+https://www.figma.com/design/ZjsCVevk5kq7LRvU6axxqp/GD-APP?node-id=5206-96998&t=5Kh9TBfRpLEaIH26-1
